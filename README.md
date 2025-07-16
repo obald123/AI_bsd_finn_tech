@@ -1,1 +1,1 @@
-# maize_bean_app
+# AI_finnance_assistance
